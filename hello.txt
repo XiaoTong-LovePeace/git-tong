@@ -1,3 +1,6 @@
 hello tong love me
+<<<<<<< HEAD
 Hi linda where are you doin
 Nihao ！！！
+Hi linda where are you doing！
+你好哦  tong
